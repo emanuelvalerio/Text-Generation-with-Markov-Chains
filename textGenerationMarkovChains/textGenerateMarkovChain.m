@@ -1,7 +1,7 @@
 
 % Developed by Emanuel Valerio Pereira
 
-chapters=('3gab.txt'); % loading the chapters 
+chapters=('chapters.txt'); % loading the chapters 
 
 % database preprocessing
 str = readlines(chapters);
