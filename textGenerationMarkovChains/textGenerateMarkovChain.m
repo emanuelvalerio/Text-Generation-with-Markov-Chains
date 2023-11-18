@@ -1,5 +1,5 @@
 
-% Emanuel Valerio Pereira
+% Developed by Emanuel Valerio Pereira
 
 chapters=('3gab.txt'); % loading the chapters 
 
